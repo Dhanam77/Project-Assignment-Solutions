@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectAssignmentSolutions</string>
+    <string name="facebook_app_id">542105033400463</string>
+    <string name="fb_login_protocol_scheme">fb542105033400463</string>
+</resources>
